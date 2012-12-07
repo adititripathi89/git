@@ -27,3 +27,5 @@ git remote set_url origin https://github.com/UserID/git.git
 To unset Global
 +++++++++++++++++
 git config --global --unset
+
+Edited Little bit more! Now what to do?
